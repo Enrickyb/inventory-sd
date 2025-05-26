@@ -1,0 +1,14 @@
+{
+  "name": "bookstore-inventory-service",
+  "version": "1.0.0",
+  "description": "Inventory Service for the Bookstore Distributed System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "sqlite3": "^5.1.6"
+  },
+  "author": "Enricky",
+  "license": "MIT"
+}
